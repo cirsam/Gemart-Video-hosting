@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 72px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #ccc;
+        text-anchor: middle;
+        font-family: "LeelawadeeUI-Bold";
+        font-weight: bold;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 48px;
+      }
+    </style>
+  </defs>
+  <g id="artboard-1">
+    <text x="684" y="256" class="cls-1"><tspan class="cls-2">Wecome to Gemartt</tspan></text>
+    <text x="684" y="420" class="cls-3"><tspan class="cls-4">The home of Ewe movies</tspan></text>
+  </g>
+</svg>
